@@ -1,0 +1,21 @@
+Book My show
+
+we need a reusable carousel
+->HERO carousel
+-> COMMON carousel
+-> CAST carousel(SMALL carousel)
+
+
+PAGES
+
+>HOME
+>MOVIE
+>CATAGORIES
+>AUTH
+>RAZORPAY
+
+HOW ARE WE GINNA BUILD IT
+> LAYOUTS
+> PAGES
+> ROUTES
+> COMPONENTS
